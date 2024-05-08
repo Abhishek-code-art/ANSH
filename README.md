@@ -6,6 +6,8 @@ DSA Store and Revamp is a web application that allows you to store links to Data
 
 - **Store DSA Question Links:** Store links to DSA questions you've solved for easy access and reference.
 - **Track Problems Solved:** Keep track of the number of DSA problems you've solved.
+- **Algorithm Visualization:** Visualize various sorting and graph algorithms.
+- **Code Editor:** practice coding on ANSH code editor. 
 - **Placement Resources:** Access resources related to Operating Systems (OS), Operating Systems Principles (OPS), Computer Networks (CN), and Database Management Systems (DBMS) for placement preparation.
 
 ## Technologies Used
